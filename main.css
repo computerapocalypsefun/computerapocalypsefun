@@ -1,0 +1,21 @@
+@font-face {
+  font-family: "Ofform Regular";
+  src: url("./fonts/Ofform-Regular.woff2") format("woff2"),
+       url("./fonts/Ofform-Regular.woff") format("woff"),
+       url("./fonts/Ofform-Regular.eot") format("eot");
+}
+
+body {
+  background-color: #000;
+  margin: 0;
+}
+
+svg {
+  width: 100%;
+}
+
+text {
+  font-family: 'Ofform Regular';
+  fill: #0F0;
+}
+
